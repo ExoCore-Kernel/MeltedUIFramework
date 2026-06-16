@@ -1,0 +1,4 @@
+[submodule "external/MeltedGlassOpenGL"]
+	path = external/MeltedGlassOpenGL
+	url = https://github.com/ExoCore-Kernel/MeltedGlassOpenGL.git
+	branch = main
