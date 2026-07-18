@@ -146,3 +146,7 @@ melted_ui_draw_button(&button, &glass, &glassCfg,
 
 For simpler rendering where the knob does not need to refract the track under it,
 call `melted_ui_draw_switch(...)` in one pass.
+
+## License
+
+MeltedUIFramwework and MeltedGlassOpenGL are both released under the MIT license.
